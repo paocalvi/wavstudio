@@ -1,0 +1,16 @@
+# Binari compilati
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.wav
+
+# File generati dai test
+*.test
+*.out
+
+.cache/
+cmd/wav*/
+.vscode/
+
